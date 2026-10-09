@@ -1,0 +1,3 @@
+0 Paper 0
+1 Rock 1
+2 Scissors 2
